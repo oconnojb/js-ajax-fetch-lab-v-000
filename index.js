@@ -4,7 +4,6 @@ const user = 'oconnojb';
 function getToken() {
   //change to your token to run in browser, but set
   //back to '' before committing so all tests pass
-  //return '3e864ef5505b392bf' + '2feba2692a568489829a24d';
   return '';
 }
 
